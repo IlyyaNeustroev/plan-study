@@ -1,1 +1,4 @@
 Электроника и системное программирование https://systo.ru/micro/begin/zen.html
+
+Блог программиста хорошо объясняющего инетресные вещи https://alexander-bagel.blogspot.com/
+его же сайт https://rouse.drkb.ru/books.php
